@@ -1,3 +1,7 @@
+## Installation
+URL producción: https://planificapistas-ddd-cqrs.onrender.com/ping
+Devuelve "Pong!"
+
 ## Sonar status
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JC-Saldana_planificapistas-ddd-cqrs&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JC-Saldana_planificapistas-ddd-cqrs)
